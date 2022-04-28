@@ -29,3 +29,10 @@ nav ul li a:hover{
     color: white;
     border-bottom: 1px solid white;
 }
+.badge{
+    margin: 0 5px;
+    padding: 0px 7px; 
+    border-radius: 30%;
+    background-color: rgb(247, 164, 255);
+    color: black;
+}

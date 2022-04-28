@@ -1,5 +1,6 @@
 import classes from "./MeetUpList.module.css";
 import MeetupItem from "./MeetUpItem";
+
 function MeetupList(props) {
   return (
     <div className={classes.list}>
